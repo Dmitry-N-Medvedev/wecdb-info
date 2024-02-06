@@ -1,0 +1,26 @@
+{
+  "name": "@enercon-open-source/wecdb-info",
+  "version": "0.0.0",
+  "description": "wecdb info",
+  "type": "module",
+  "packageManager": "pnpm@8.15.1",
+  "engines": {
+    "node": ">=21.4.0",
+    "pnpm": "8.15.1"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "Dmitry N. Medvedev <dmitry.medvedev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enercon-open-source/wecdb-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enercon-open-source/wecdb-info/issues"
+  },
+  "homepage": "https://github.com/enercon-open-source/wecdb-info#readme"
+}
